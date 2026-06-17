@@ -50,14 +50,7 @@ Browser → AWS S3 Bucket (Static Website Hosting Enabled)
 
 ---
 
-## Screenshots
-> <img width="1302" height="724" alt="image" src="https://github.com/user-attachments/assets/ab311681-ca95-4ba5-afdc-0bfda4d922b1" />
-<img width="1077" height="465" alt="image" src="https://github.com/user-attachments/assets/8b21631b-2ead-41b8-8f28-4b9ab4961181" />
-<img width="1019" height="519" alt="image" src="https://github.com/user-attachments/assets/1ca0c589-638e-4fa6-a211-732a054aa2c8" />
-<img width="1025" height="395" alt="image" src="https://github.com/user-attachments/assets/cf2431b9-03a3-482d-ac59-c72bb498a070" />
 
-
----
 
 ## Next Steps
 - [ ] Add CloudFront for HTTPS and CDN
